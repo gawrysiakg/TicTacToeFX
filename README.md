@@ -9,7 +9,7 @@ You can choose normal version 3x3, or extended version with 10x10 board.
 --> In 3x3 version: Players play Xs and Os on the game board. 3 signs in line - win.
 --> In 10x10 version: 5 signs in line - victory.
 
-![](C:\Users\grzeg\Desktop\boardimage3.png)
+<img src="C:\Dev\Kodilla-course\TicTacToeFX\src\main\resources\boardimage3.png"/>
 
 
 Have Fun!
